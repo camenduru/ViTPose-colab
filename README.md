@@ -9,7 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ViTPose-colab/blob/main/ViTPose_colab.ipynb) | ViTPose_colab
 
 ## Main Repo
-https://github.com/vitae-transformer/vitpose
+https://github.com/vitae-transformer/vitpose <br />
+https://huggingface.co/spaces/hysts/ViTPose_video/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2204.12484
