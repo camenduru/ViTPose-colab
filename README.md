@@ -16,3 +16,4 @@ https://huggingface.co/spaces/hysts/ViTPose_video/tree/main <br />
 https://arxiv.org/abs/2204.12484
 
 ## Output
+https://github.com/camenduru/ViTPose-colab/assets/54370274/fff12af2-7f8d-46ef-9b1b-62a2966b9b9b
